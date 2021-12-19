@@ -97,7 +97,7 @@ Copy-paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01)](https://github.com/akashsoni01/github-readme-stats)
+[![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01)](https://github.com/akashsoni01/github-readme-stats)
 ```
 
 _Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
@@ -111,7 +111,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with comma-s
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&hide=contribs,prs)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&hide=contribs,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -123,7 +123,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&count_private=true)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&count_private=true)
 ```
 
 ### Showing icons
@@ -131,7 +131,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true)
 ```
 
 ### Themes
@@ -141,7 +141,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true&theme=radical)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes :-
@@ -328,41 +328,41 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01)
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&hide=contribs,issues)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&hide=contribs,issues)
 
 - Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&hide=issues&show_icons=true)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&hide=issues&show_icons=true)
 
 - Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&border_color=2e4058)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&border_color=2e4058)
 
 - Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&include_all_commits=true)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&include_all_commits=true)
 
 - Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true&theme=radical)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashsoni01&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&locale=es)
+![Akash Soni's GitHub stats](https://github-readme-stats.vercel.app/api/?username=akashsoni01&locale=es)
 
 - Customizing repo card
 
